@@ -3,6 +3,15 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class fat_students_project {
+    /*attend
+Rewrite the three test scores program using Arrays Must use: do while loop to restart your program input validation for the
+scores (scores must be between 0 and 100)
+ PRINTF for output. submit (source code in java and output in word, pdf, jpig)
+ assume you have a class of 10 students, the user to enter the following as input,
+  Firs name, middle initial, last name, score 1, score 2, score 3. the program is to calculate,
+  the average for each student, and the class average. output display in the following format CSC-117-q02
+ First    name    MI    Last name    Test 1    Test 2    test 3    Average
+     */
 
         public static void main(String[] args) {
           int Size;
